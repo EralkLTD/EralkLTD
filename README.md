@@ -1,36 +1,36 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Buvanaka Bataduwaarachchi</h1>
-<h3 align="center">🚀 Application Operations Engineer | Full-Stack Developer</h3>
+<h3 align="center">🚀 Application Operations Engineer | Backend & Systems Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F05A28&center=true&vCenter=true&lines=Application+Operations+Engineer;MERN+Stack+Developer;Spring+Boot+Backend+Engineer;Problem+Solver+%7C+RCA+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F05A28&center=true&vCenter=true&lines=Application+Operations+Engineer;Root+Cause+Analysis+Specialist;Backend+%26+System+Support+Engineer;MERN+%7C+Spring+Boot+%7C+Python+Developer" />
 </p>
 
 ---
 
 <!-- BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Application%20Operations%20Engineer-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-MERN-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-SpringBoot-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-RCA%20%26%20Production%20Support-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-App%20Ops%20Engineer-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-RCA%20%26%20System%20Reliability-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-SpringBoot%20%7C%20NodeJS-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-MERN%20%7C%20Python%20%7C%20C-blue?style=for-the-badge" />
 </p>
 
 ---
 
-<!-- ABOUT -->
 ## 🧑‍💻 About Me
 
-- 💼 Currently working as an **Application Operations Engineer**
-- ⚡ Experienced in **MERN Stack & Spring Boot Full-Stack Development**
-- 🧠 Strong in **Root Cause Analysis (RCA) & Incident Resolution**
-- 🔍 Passionate about **Debugging, System Reliability & Performance**
-- 🌱 Exploring **Cloud, Scalable Systems & DevOps Practices**
+- 💼 Working as an **Application Operations Engineer**
+- 🔍 Specialized in **Root Cause Analysis (RCA) & Incident Resolution**
+- 🛠️ Hands-on with **Production Systems, Debugging & Monitoring**
+- ⚙️ Perform **Python-based fixes, backend support & system improvements**
+- 🗄️ Experience in **Database Administration & Data Validation**
+- 🖥️ Manage **Server Maintenance & Application Health**
+- 💻 Development experience in **MERN Stack, Spring Boot, Python & C**
 - 📫 Reach me: **erandabataduwaarachchi@gmail.com**
 
 ---
 
-<!-- CONNECT -->
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -44,22 +44,21 @@
 
 ---
 
-<!-- TECH STACK -->
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,spring,java,python,c,php,mysql" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,spring,java,python,c,mysql" />
 </p>
 
 ---
 
-<!-- SKILLS -->
 ## 🧩 What I Do
 
 ```diff
 + Application Monitoring & Incident Handling
-+ Root Cause Analysis (RCA) & Debugging
-+ Backend Development (Node.js, Spring Boot)
-+ Frontend Development (React.js)
-+ Database Management (MongoDB, MySQL)
-+ Deployment & Production Support
++ Root Cause Analysis (RCA) & Debugging Production Issues
++ Python Code Fixes & Backend Support
++ Database Administration & Query Validation
++ Server Maintenance & System Health Monitoring
++ API Debugging & Integration Support
++ Full-Stack Development (MERN, Spring Boot)
